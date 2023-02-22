@@ -43,15 +43,6 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 </a>
 
 
-
-
-<a href="placeholder.com" target="_blank">Opens in new tab</a>
-
-[<img align="left" alt="MBCMorais | LinkedIn" width="22px" src="https://www.linkedin.com/in/marcelo-m-6a4681220" />][linkedin]
-[<img align="left" alt="MBCMorais | Instagram" width="22px" src="https://www.instagram.com/marcelobcmorais/" />][instagram]
-
-
-
 ## 💼 Skills
 [![ C# ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![ JS ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://overapi.com/javascript)

@@ -24,10 +24,19 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 
 <!-- [<img align="left" alt="MBCMorais | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="MBCMorais | GitHub" width="22px" src="https://github.com/MBCMorais" />][github]
-<a href="https://github.com/MBCMorais" target="blank">
-   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-        alt="MBCMorais | GitHub" height="30" width="40" />
+<a href="https://github.com/MBCMorais" target="_blank">
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" alt="MBCMorais | GitHub" height="30" width="40" />
 </a>
+
+[go](http://stackoverflow.com){:target="_blank"}? – 
+
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
+<a href="http://example.com" target="_blank"><img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" alt="MBCMorais | GitHub" height="30" width="40" /></a>
+
+
+
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
 
 [<img align="left" alt="MBCMorais | LinkedIn" width="22px" src="https://www.linkedin.com/in/marcelo-m-6a4681220" />][linkedin]
 [<img align="left" alt="MBCMorais | Instagram" width="22px" src="https://www.instagram.com/marcelobcmorais/" />][instagram]

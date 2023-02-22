@@ -31,7 +31,7 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 </a>
 
 <a href="https://www.instagram.com/marcelobcmorais/" target="_blank">
-   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/LinkedIN.svg" alt="MBCMorais | Instagram" height="30" width="40" />
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Instagram.svg" alt="MBCMorais | Instagram" height="30" width="40" />
 </a>
 
 <a href="https://account.microsoft.com/profile/" target="_blank">

@@ -1,25 +1,22 @@
 ### Hi 👋, I'm Marcelo Morais.
 
-I'm a self-taught developer, who likes to create interesting projects that can help people do their chores more easy and fast.
+I'm a self-taught developer who enjoys coming up with intriguing projects that can make people's daily tasks easier and faster.
 
 
 ### For personal things, I:
 
 - love reading useful materials like coding resources and documentations.
-- teach tech stuff to interesting people and even to career-shifters.
-- love the tools related to react/gatsby and node.js.
+- love the tools related to programing in general
 - am motivated to do Open-Source!
 - am a traveler.
-- only have one woman.
 
 
-### Gist About me:
+### About me:
 
-- 🔭 I’m currently working on a Full Stack (NodeJS and ReactJS) project
-- 🌱 I’m currently learning NextJS
-- 👯 I’m looking to collaborate on a ReactJS project
+- 🔭 I’m currently working on a project (Budget APP)
+- 🌱 I’m currently learning MERN
 - 🥅 2022-2023 Goals: More projects with NodeJS and ReactJS
-- ⚡ Fun fact: I love to play chess & musical instruments
+- ⚡ Fun fact: I love to travel with my queen 😍
 
 
 

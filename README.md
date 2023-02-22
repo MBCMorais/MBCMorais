@@ -58,9 +58,25 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3578e5)
+[![ CSS ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://overapi.com/css)
+[![ HTML ](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://overapi.com/html)
+[![ C# ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![ JS ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://overapi.com/javascript)
+[![ NODE.JS ](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://overapi.com/nodejs)
+[![ EXPRESS.JS ](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://overapi.com/express)
+[![ REACT.JS ](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/docs/getting-started.html)
+[![ BOOTSTRAP ](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+[![ MONGODB ](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![ NETLIFY ](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![ HEROKU ](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![ Microsoft Azure ](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure)
+
+[![ Microsoft Excel ](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
+
+[![ Azure Devops ](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
+
+
+![NODEJS](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3578e5)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3578e5)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4fc08d)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=663399)

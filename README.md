@@ -28,6 +28,8 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" alt="MBCMorais | GitHub" height="30" width="40" />
 </a>
 
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
+
 [<img align="left" alt="MBCMorais | LinkedIn" width="22px" src="https://www.linkedin.com/in/marcelo-m-6a4681220" />][linkedin]
 [<img align="left" alt="MBCMorais | Instagram" width="22px" src="https://www.instagram.com/marcelobcmorais/" />][instagram]
 

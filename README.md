@@ -22,17 +22,26 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="MBCMorais | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="MBCMorais | GitHub" width="22px" src="https://github.com/MBCMorais" />][github]
 <a href="https://github.com/MBCMorais" target="_blank">
-   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" alt="MBCMorais | GitHub" height="30" width="40" />
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Github.svg" alt="MBCMorais | GitHub" height="30" width="40" />
 </a>
 
-[go](http://stackoverflow.com){:target="_blank"}? – 
+<a href="https://www.linkedin.com/in/marcelo-m-6a4681220" target="_blank">
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/LinkedIN.svg" alt="MBCMorais | LinkedIn" height="30" width="40" />
+</a>
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+<a href="https://www.instagram.com/marcelobcmorais/" target="_blank">
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/LinkedIN.svg" alt="MBCMorais | Instagram" height="30" width="40" />
+</a>
 
-<a href="http://example.com" target="_blank"><img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" alt="MBCMorais | GitHub" height="30" width="40" /></a>
+<a href="https://account.microsoft.com/profile/" target="_blank">
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Microsoft.svg" alt="MBCMorais | Website" height="30" width="40" />
+</a>
+
+<a href="http://example.com/" target="_blank">
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/web-sites-svgrepo-com.svg" alt="MBCMorais | Website" height="30" width="40" />
+</a>
+
 
 
 

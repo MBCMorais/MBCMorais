@@ -25,7 +25,7 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 <!-- [<img align="left" alt="MBCMorais | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="MBCMorais | GitHub" width="22px" src="https://github.com/MBCMorais" />][github]
 <a href="https://github.com/MBCMorais" target="blank">
-   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/github-social-media-computer-icons-logo-android-png-favpng-j7PcraRbnyWuZUG1QVirqk6fJ.jpg" 
         alt="MBCMorais | GitHub" height="30" width="40" />
 </a>
 

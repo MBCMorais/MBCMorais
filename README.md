@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [![ GIT ](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://git-scm.com/docs)
 [![ MARKDOWN ](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/basic-syntax/)
 [![ STYLED COMPONENTS ](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/docs)
-[![ NPM ](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=cb3837)](https://docs.npmjs.com/)
+[![ NPM ](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)](https://docs.npmjs.com/)
 [![ GITHUB ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![ Microsoft Excel ](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
 

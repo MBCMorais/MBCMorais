@@ -18,18 +18,16 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 - 🥅 2022-2023 Goals: More projects with NodeJS and ReactJS
 - ⚡ Fun fact: I love to travel with my queen 😍
 
-
+<br />
 
 ### Connect with me:
 
-[<img align="left" alt="MBCMorais | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MBCMorais | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="MBCMorais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MBCMorais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MBCMorais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!-- [<img align="left" alt="MBCMorais | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="MBCMorais | GitHub" width="22px" src="https://github.com/MBCMorais" />][github]
+[<img align="left" alt="MBCMorais | LinkedIn" width="22px" src="https://www.linkedin.com/in/marcelo-m-6a4681220" />][linkedin]
+[<img align="left" alt="MBCMorais | Instagram" width="22px" src="https://www.instagram.com/marcelobcmorais/" />][instagram]
 
-<br />
+
 
 ## 💼 Skills
 [![ C# ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -42,7 +40,6 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 [![ MONGODB ](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![ Microsoft Azure ](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure)
 [![ Azure Devops ](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
-
 
 
 <details>

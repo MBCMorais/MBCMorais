@@ -26,7 +26,7 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Github.svg" alt="MBCMorais | GitHub" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/marcelo-m-6a4681220" target="_blank">
+<a href="https://www.linkedin.com/in/marcelocmorais/" target="_blank">
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/LinkedIN.svg" alt="MBCMorais | LinkedIn" height="30" width="40" />
 </a>
 

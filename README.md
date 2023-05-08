@@ -85,7 +85,7 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
     srcset="https://github-readme-stats.vercel.app/api?username=MBCMorais&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=MBCMorais&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MBCMorais&show_icons=true" />
   </picture>
 </div>
 
@@ -106,5 +106,5 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 </div>
 
 
-[![MBCMorais's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MMorais)](https://github.com/anuraghazra/github-readme-stats)
+[![MBCMorais's wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=@MMorais)](https://github.com/anuraghazra/github-readme-stats)
 

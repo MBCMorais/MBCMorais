@@ -106,5 +106,7 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 </div>
 
 
-[![MBCMorais's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MMorais)](https://github.com/MBCMorais/github-readme-stats)
+[![MBCMorais's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MBCMorais&range=all_time)](https://github.com/MBCMorais)
+[![MBCMorais's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianocouto&range=all_time)](https://github.com/MBCMorais)
+
 

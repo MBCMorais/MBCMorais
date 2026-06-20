@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Marcelo Morais.
 
-I'm a self-taught developer who enjoys coming up with intriguing projects that can make people's daily tasks easier and faster.
+I'm a self-taught developer who enjoys coming up with intriguing projects that can make me enjoy and develop personal and profissional
 
 
 ### For personal things, I:
@@ -13,9 +13,8 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
 
 ### About me:
 
-- 🔭 I’m currently working on a project (Budget APP)
-- 🌱 I’m currently learning MERN
-- 🥅 2022-2023 Goals: More projects with NodeJS and ReactJS
+- 🌱 I’m currently learning game dev
+- 🥅 2026 Goals: More projects that i like doing
 - ⚡ Fun fact: I love to travel with my queen 😍
 
 <br />
@@ -38,9 +37,9 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Microsoft.svg" alt="MBCMorais | Website" height="30" width="40" />
 </a>
 
-<a href="http://example.com/" target="_blank">
+[<a href="http://example.com/" target="_blank">
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/web-sites-svgrepo-com.svg" alt="MBCMorais | Website" height="30" width="40" />
-</a>
+</a>](url)
 
 
 ## 💼 Skills

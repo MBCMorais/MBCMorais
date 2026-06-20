@@ -37,9 +37,9 @@ I'm a self-taught developer who enjoys coming up with intriguing projects that c
    <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/Microsoft.svg" alt="MBCMorais | Website" height="30" width="40" />
 </a>
 
-[<a href="http://example.com/" target="_blank">
-   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/web-sites-svgrepo-com.svg" alt="MBCMorais | Website" height="30" width="40" />
-</a>](url)
+[//]: #<a href="http://example.com/" target="_blank">
+[//]: #   <img align="center" src="https://github.com/MBCMorais/MBCMorais/blob/main/src/img/web-sites-svgrepo-com.svg" alt="MBCMorais | Website" height="30" width="40" />
+[//]: #</a>(url)
 
 
 ## 💼 Skills
